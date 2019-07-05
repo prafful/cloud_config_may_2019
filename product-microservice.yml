@@ -38,5 +38,5 @@ management:
         include: "*"    
         
 welcome:
-    message: "Refreshed!!!! from GIT repo! ZUUL Ok!"        
+    message: "Refreshed 4!!!! from local to GIT repo!!!!"        
   
