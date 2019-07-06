@@ -38,5 +38,5 @@ management:
         include: "*"    
         
 welcome:
-    message: "Refreshed 4!!!! from local to GIT repo!!!!"        
+    message: "Refreshed 8!!!! All deployed to docker!!!!"        
   
