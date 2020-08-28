@@ -38,5 +38,5 @@ management:
         include: "*"    
         
 welcome:
-    message: "Refreshed 8!!!! All deployed to docker!!!!"        
+    message: "Hurray! Running after a long time!!!!"        
   
